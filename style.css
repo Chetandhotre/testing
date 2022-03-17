@@ -1433,12 +1433,12 @@ height: 100%;
   
 @media screen and (min-width: 350px) {
     html {
-      font-size: 62%;
+      font-size: 67%;
     }
   }
   @media screen and (min-width: 450px) {
     html {
-      font-size: 68%;
+      font-size: 73%;
     }
    
   }
