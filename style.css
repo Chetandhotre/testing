@@ -145,7 +145,7 @@ body{
 
 .header-data_text-1 {
     color: rgba(255, 255, 255, 0.88);
-    font-size: 2.2rem;
+    font-size: 3rem;
     /* line-height: 3.5rem; */
     text-shadow: 0 0 3px #17bee2;
 }
@@ -154,7 +154,7 @@ body{
     color: rgba(255, 255, 255, 0.78);
     /*line-height: 1.4rem;*/
     padding: 0.7rem 0rem 0.7rem;
-    font-size: 1rem;
+    font-size: 1.5rem;
     text-transform: capitalize;
 }
 
@@ -165,7 +165,7 @@ body{
     text-transform: capitalize;
     padding: 0.6rem;
     color: #f5fcf4;
-    font-size: 1.1rem;
+    font-size: 2rem;
     margin-top: 0.7rem;
     opacity: 1;
 }
@@ -1424,7 +1424,7 @@ height: 100%;
 
 @media screen and (min-width: 250px) {
     html {
-      font-size: 58%;
+      font-size: 54%;
     }
    .header  .header-data_1{
         padding: 6rem 3.5rem;
@@ -1432,14 +1432,20 @@ height: 100%;
   }
   
 @media screen and (min-width: 350px) {
+    .navbar_head {
+        
+        height: 3rem;
+       
+    }
     html {
-      font-size: 67%;
+      font-size: 58%;
     }
   }
   @media screen and (min-width: 450px) {
     html {
-      font-size: 73%;
+      font-size: 62%;
     }
+
    
   }
 
